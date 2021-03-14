@@ -1,0 +1,19 @@
+header {
+  background: #ad0808;
+}
+
+h1 {
+  color: #3408f8;
+}
+
+body {
+  font-style: 20px;
+}
+
+body div {
+  font-size: 20px;
+}
+
+body .red {
+  color: red;
+}
